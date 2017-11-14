@@ -1,5 +1,5 @@
 # coaching-invoice-ui
-Express/AngularJS based UI for generating and sending monthly coaching invoices to students
+Express.js/React.js/MongoDB/Node.js based web app for generating and sending monthly coaching invoices to students
 
 ## Modules:
   1. Add coaching profile
